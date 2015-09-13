@@ -1,2 +1,7 @@
-# go-tutorials
-This is some code that will be completed as I teach myself Go, and the various sources I get the tutorials from.
+# Go Tutorials
+This is a collection of various tutorials I have found and will be going through
+as I teach myself go. Currently I have found the following tutorials.
+
+* GoLang Tutorials [GoLangBlogspot] under dir GoLangBlogSpot.
+
+[GoLangBlogspot]: http://golangtutorials.blogspot.com/
